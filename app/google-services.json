@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082911125236",
+    "project_id": "todofirestore-6edab",
+    "storage_bucket": "todofirestore-6edab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082911125236:android:5a834cc5da315d619838a1",
+        "android_client_info": {
+          "package_name": "com.hurtarte.firestoragedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082911125236-pq2toe0f4hh7oedpmrs3bnl15opepdfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hurtarte.firestoragedemo",
+            "certificate_hash": "cb7c45a6cad251748b13ff462dfff775a51a6f7c"
+          }
+        },
+        {
+          "client_id": "1082911125236-10ui5rgkkc9a7u7ftugcn947mht2hngn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TkVY6WHLNyDKUB1VAUd9qZoQ0vsyjCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082911125236-10ui5rgkkc9a7u7ftugcn947mht2hngn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
